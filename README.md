@@ -1,4 +1,4 @@
-## 📊 Dashboard Interactivo
+## Dashboard Interactivo
 
 Puedes visualizar el dashboard completo en Power BI Service aquí:
 
@@ -9,15 +9,15 @@ Puedes visualizar el dashboard completo en Power BI Service aquí:
 # cyclistic-membership-Analysis
 Analizar el comportamiento de usuarios para identificar oportunidades de conversión a membresías anuales.
 
-🎯 Contexto del proyecto
+## **Contexto del proyecto**
 
 Empresa de bicicletas compartidas que busca aumentar la cantidad de membresías anuales.
 
-🔎 Problema
+## **Problema**
 
 Era necesario entender el comportamiento de usuarios casuales vs miembros para identificar oportunidades de conversión.
 
-🛠 Proceso realizado
+## **Proceso realizado**
 
 Limpieza y estandarización de bases de datos en Excel.
 
@@ -27,7 +27,7 @@ Análisis exploratorio del comportamiento de uso (frecuencia, duración, tipo de
 
 Desarrollo de dashboard en Power BI con KPIs estratégicos.
 
-📈 Resultados e insights
+## **Resultados e insights**
 
 Identificación de patrones de uso diferenciados entre usuarios.
 
