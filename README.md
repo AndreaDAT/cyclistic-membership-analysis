@@ -4,7 +4,8 @@ Puedes visualizar el dashboard completo en Power BI Service aquí:
 
 🔗 [Ver Dashboard Cyclistic en Power BI](https://app.powerbi.com/groups/me/reports/40a75fc8-063c-4e6f-a4ae-c978aed493cb?ctid=fc00547a-24bb-4e4f-9d61-73fca5eb9df3&pbi_source=linkShare)
 
-(ciclystic.PNG) 
+![Análisis de membresía Cyclistic](ciclystic.PNG)
+
 # cyclistic-membership-Analysis
 Analizar el comportamiento de usuarios para identificar oportunidades de conversión a membresías anuales.
 
